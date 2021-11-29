@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">ControlVacunacion</string>
+    <string name="edad">Edad:</string>
+    <string name="ocupacion">Ocupacion:</string>
+    <string name="departamento">Departamento:</string>
+    <string name="vacuna">Vacuna:</string>
+    <string name="sintomas">Sintomas:</string>
+    <string name="guardar">Guardar</string>
+    <string name="volver">Volver</string>
+    <string name="pais">Pais:</string>
+    <string name="pais_de_aplicacion">Pais de aplicacion:</string>
+    <string name="sintomas_presentados">Sintomas presentados:</string>
+    <string name="editar">Editar</string>
+
+    <string-array name="Ocupacion">
+        <item>Docente</item>
+        <item>Estudiante</item>
+        <item>Servicio</item>
+    </string-array>
+
+    <string-array name="Departamento">
+        <item>Economía Aplicada</item>
+        <item>Administración de Empresas</item>
+        <item>Contaduría Pública y Auditoria</item>
+        <item>Marketing</item>
+        <item>Finanzas</item>
+        <item>Trabajo Social y Gestión de Desarrollo</item>
+        <item>Comunicación</item>
+        <item>Enseñanza del Inglés</item>
+        <item>Psicología</item>
+        <item>Sociología</item>
+        <item>Filosofía</item>
+        <item>Derecho</item>
+        <item>Ingeniería en Sistemas De Información</item>
+        <item>Ingeniería en Redes</item>
+        <item>Ingenierías Ambiental</item>
+        <item>Ingeniería Civil</item>
+        <item>Ingeniería Industrial</item>
+        <item>Diseño Grafico</item>
+        <item>Arquitectura</item>
+        <item>Servicio</item>
+    </string-array>
+
+    <string-array name="Pais">
+        <item>Nicaragua</item>
+        <item>Honduras</item>
+        <item>Costa Rica</item>
+        <item>El Salvador</item>
+        <item>Estados Unidos</item>
+    </string-array>
+
+    <string-array name="Vacunas">
+        <item>Pfizer</item>
+        <item>Janssen</item>
+        <item>Astrazeneca</item>
+        <item>Moderna</item>
+        <item>Sputnik Light</item>
+        <item>Sputnik V</item>
+        <item>Soberana</item>
+    </string-array>
+</resources>

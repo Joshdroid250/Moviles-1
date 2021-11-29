@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desktop/UCA/Programas Sistemas/ControlVacunacion/app/src/main/res/layout/activity_editar_vacunacion.xml" value="0.3875" />
+        <entry key="..\:/Desktop/UCA/Programas Sistemas/ControlVacunacion/app/src/main/res/layout/activity_lista_vacunacion.xml" value="0.21927083333333333" />
+        <entry key="..\:/Desktop/UCA/Programas Sistemas/ControlVacunacion/app/src/main/res/layout/activity_vacunaciones.xml" value="0.3875" />
+        <entry key="..\:/Desktop/UCA/Programas Sistemas/ControlVacunacion/app/src/main/res/layout/activity_ver_vacunacion.xml" value="0.3875" />
+        <entry key="..\:/Desktop/UCA/Programas Sistemas/ControlVacunacion/app/src/main/res/layout/item_vacunacion.xml" value="0.3875" />
+        <entry key="..\:/Desktop/UCA/Programas Sistemas/ControlVacunacion/app/src/main/res/layout/lista_departamentos.xml" value="0.3875" />
+        <entry key="..\:/Desktop/UCA/Programas Sistemas/ControlVacunacion/app/src/main/res/layout/lista_edad.xml" value="0.3677536231884058" />
+        <entry key="..\:/Desktop/UCA/Programas Sistemas/ControlVacunacion/app/src/main/res/layout/lista_ocupacion.xml" value="0.3875" />
+        <entry key="..\:/Desktop/UCA/Programas Sistemas/ControlVacunacion/app/src/main/res/layout/lista_pais.xml" value="0.3875" />
+        <entry key="..\:/Desktop/UCA/Programas Sistemas/ControlVacunacion/app/src/main/res/layout/lista_vacuna.xml" value="0.3875" />
+        <entry key="..\:/Users/Gary/AndroidStudioProjects/ControlVacunacion/app/src/main/res/layout/activity_editar_vacunacion.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Gary/AndroidStudioProjects/ControlVacunacion/app/src/main/res/layout/activity_lista_vacunacion.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Gary/AndroidStudioProjects/ControlVacunacion/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Gary/AndroidStudioProjects/ControlVacunacion/app/src/main/res/layout/activity_vacunaciones.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Gary/AndroidStudioProjects/ControlVacunacion/app/src/main/res/layout/activity_ver_vacunacion.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Gary/AndroidStudioProjects/ControlVacunacion/app/src/main/res/layout/item_vacunacion.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Gary/Desktop/ControlVacunacionV2/app/src/main/res/layout/activity_editar_vacunacion.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/Gary/Desktop/ControlVacunacionV2/app/src/main/res/layout/activity_estadisticas.xml" value="0.3473731884057971" />
+        <entry key="..\:/Users/Gary/Desktop/ControlVacunacionV2/app/src/main/res/layout/activity_main.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/Gary/Desktop/ControlVacunacionV2/app/src/main/res/layout/activity_vacunaciones.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/Gary/Desktop/ControlVacunacionV2/app/src/main/res/layout/activity_ver_vacunacion.xml" value="0.3374094202898551" />
+        <entry key="..\:/Users/Gary/Desktop/ControlVacunacionV2/app/src/main/res/layout/item_vacunacion.xml" value="0.36231884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
